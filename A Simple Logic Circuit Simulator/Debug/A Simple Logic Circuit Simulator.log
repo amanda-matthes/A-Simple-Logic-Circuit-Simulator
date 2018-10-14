@@ -1,0 +1,52 @@
+﻿  AndGate.cpp
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(32): warning C4309: 'initializing': truncation of constant value
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(33): warning C4309: 'initializing': truncation of constant value
+  BoardCreator.cpp
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(32): warning C4309: 'initializing': truncation of constant value
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(33): warning C4309: 'initializing': truncation of constant value
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\boardcreator.cpp(24): warning C4101: 'state': unreferenced local variable
+  Component.cpp
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(32): warning C4309: 'initializing': truncation of constant value
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(33): warning C4309: 'initializing': truncation of constant value
+  Demonstration.cpp
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(32): warning C4309: 'initializing': truncation of constant value
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(33): warning C4309: 'initializing': truncation of constant value
+  Empty.cpp
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(32): warning C4309: 'initializing': truncation of constant value
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(33): warning C4309: 'initializing': truncation of constant value
+  GlobalVariables.cpp
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(32): warning C4309: 'initializing': truncation of constant value
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(33): warning C4309: 'initializing': truncation of constant value
+  Grid.cpp
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(32): warning C4309: 'initializing': truncation of constant value
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(33): warning C4309: 'initializing': truncation of constant value
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\grid.cpp(166): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\grid.cpp(169): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\grid.cpp(173): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\grid.cpp(175): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+  IO.cpp
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(32): warning C4309: 'initializing': truncation of constant value
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(33): warning C4309: 'initializing': truncation of constant value
+  Input.cpp
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(32): warning C4309: 'initializing': truncation of constant value
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(33): warning C4309: 'initializing': truncation of constant value
+  Main.cpp
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(32): warning C4309: 'initializing': truncation of constant value
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(33): warning C4309: 'initializing': truncation of constant value
+  NotGate.cpp
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(32): warning C4309: 'initializing': truncation of constant value
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(33): warning C4309: 'initializing': truncation of constant value
+  OrGate.cpp
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(32): warning C4309: 'initializing': truncation of constant value
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(33): warning C4309: 'initializing': truncation of constant value
+  Output.cpp
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(32): warning C4309: 'initializing': truncation of constant value
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(33): warning C4309: 'initializing': truncation of constant value
+  TwoInputGate.cpp
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(32): warning C4309: 'initializing': truncation of constant value
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(33): warning C4309: 'initializing': truncation of constant value
+  Wire.cpp
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(32): warning C4309: 'initializing': truncation of constant value
+c:\users\amanda\desktop\6.semester\oop\project\a simple logic circuit simulator\a simple logic circuit simulator\globalvariables.h(33): warning C4309: 'initializing': truncation of constant value
+  Generating Code...
+  A Simple Logic Circuit Simulator.vcxproj -> C:\Users\Amanda\Desktop\6.Semester\OOP\Project\A Simple Logic Circuit Simulator\Debug\A Simple Logic Circuit Simulator.exe
